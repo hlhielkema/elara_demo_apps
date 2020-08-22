@@ -1,2 +1,2 @@
-# elara_demo_apps
-Elara demo apps
+# Elara demo applications
+
