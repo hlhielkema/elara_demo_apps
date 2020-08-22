@@ -1,2 +1,0 @@
-- [PowerShell CLI](powershell_cli/index.html)
-- [Picture Viewer](picture_viewer/index.html)
